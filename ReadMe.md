@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am a backend developer, computer science student, currently my focus of study is software architecture.<br>Other content of my interest are:<br>- AI<br>- Augmented reality<br>- Image processing
+I am a backend developer, computer science student, currently my focus of study is software architecture.
+
+Other content of my interest are:
+- AI
+- Augmented reality
+- Image processing
 
 
 ## 🌐 Socials:
