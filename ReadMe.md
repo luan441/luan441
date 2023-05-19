@@ -19,7 +19,7 @@ I am a backend developer, computer science student, currently my focus of study 
 ![](https://github-contributor-stats.vercel.app/api?username=luan441&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://www.meme-arsenal.com/memes/0fc5499f9d62f5759a639021c3df3152.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=luan441&icon=0&color=6)](https://visitcount.itsvg.in)
